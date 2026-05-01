@@ -12,3 +12,7 @@ Analyzed commonly used ML/DL techniques such as LSSVM, Random Forest, CNN, and B
 Reviewed performance metrics including accuracy, precision, recall, F1-score, RMSE, latency, detection reliability, and strain sensitivity.
 Examined publication trends and research gaps in DAS-based real-time CO₂ storage monitoring.
 
+## Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)
+<div align="center">
+    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr10_lrg.jpg" width="650">
+</div>
