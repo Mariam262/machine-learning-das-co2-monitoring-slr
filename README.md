@@ -16,3 +16,21 @@ Examined publication trends and research gaps in DAS-based real-time CO₂ stora
 <div align="center">
     <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr10_lrg.jpg" width="650">
 </div>
+
+## The literature review study mapping process
+<div align="center">
+<img width="1365" height="798" alt="SLR MAPPING" src="https://github.com/user-attachments/assets/2aaff76c-5d9a-4472-9d34-adc025fbe893" />
+</div>
+
+## Variations and enhancements in DAS
+<div align="center">
+<img width="3992" height="2554" alt="variations" src="https://github.com/user-attachments/assets/c37b1175-d093-4b12-8c77-6b98bb8e483b" />
+</div>
+
+## ML and DL techniques in DAS
+<div align="center">
+<img width="923" height="653" alt="techniqu" src="https://github.com/user-attachments/assets/6a66391e-a6f4-4710-abd3-7732ec5c9851" />
+</div>
+
+Thank you
+
